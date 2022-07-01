@@ -1,5 +1,4 @@
 
-[![MasterHead])](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hasan Alić</h1>
 <h3 align="center">Frontend developer from Bosnia and Herzegovina</h3>
 
