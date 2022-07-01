@@ -1,5 +1,5 @@
 
-[![MasterHead](https://i.pinimg.com/originals/bc/98/c9/bc98c9dcc76893a46fc71f3920846a05.gif)](https://rishavchanda.io)
+[![MasterHead](https://th.bing.com/th/id/R.75c2f842863ae2df6b3ac2d0a4d63026?rik=KEuFjuU1P0qyDA&pid=ImgRaw&r=0)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hasan Alić</h1>
 <h3 align="center">Frontend developer from Bosnia and Herzegovina</h3>
 
