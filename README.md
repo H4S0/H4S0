@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Hasan Alić</h1>
-<h3 align="center">Frontend Web Dev from Bosnia and Herzegovina</h3>
+<h3 align="center"> Web Developer from Bosnia and Herzegovina</h3>
 
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **php**
 
-- 💬 Ask me about **html,css,js,cpp**
+- 💬 Ask me about **html,css,js,cpp,java,php**
 
 
 <h3 align="left">Connect with me:</h3>
