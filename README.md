@@ -3,7 +3,7 @@
 <h3 align="center">Web Developer from Bosnia and Herzegovina</h3>
 
 
-- 🌱 I’m currently learning **js**
+- 🌱 I’m currently learning **java**
 
 - 💬 Ask me about **html,css,js,cpp**
 
