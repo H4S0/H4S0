@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hasan Alić</h1>
-<h3 align="center">Software Developer from Bosnia and Herzegovina</h3>
+<h3 align="center">Backend Developer from Bosnia and Herzegovina</h3>
 
 
 - 🌱 I’m currently learning **php**
