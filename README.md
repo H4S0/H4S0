@@ -3,9 +3,9 @@
 <h3 align="center">Full Stack Web Developer from Bosnia and Herzegovina</h3>
 
 
-- 🌱 I’m currently learning **php**
+- 🌱 I’m currently learning **apis**
 
-- 💬 Ask me about **html,css,cpp,js**
+- 💬 Ask me about **html,css,cpp,js,php**
 
 
 <h3 align="left">Connect with me:</h3>
