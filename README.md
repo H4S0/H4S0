@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Web Developer from Bosnia and Herzegovina</h3>
 
 
-- 🌱 I’m currently learning **apis**
+- 🌱 I’m currently learning more about **api**
 
 - 💬 Ask me about **html,css,cpp,js,php**
 
