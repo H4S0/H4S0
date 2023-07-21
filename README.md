@@ -3,7 +3,7 @@
 <h3 align="center">Backend developer from Bosnia and Herzegovina</h3>
 
 
-- 🌱 I’m currently learning more about **api**
+- 🌱 I’m currently learning more about **microservices**
 
 - 💬 Ask me about **html,css,cpp,js,php,nodejs**
 
