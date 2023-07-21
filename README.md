@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Hasan Alić</h1>
-<h3 align="center">Full Stack Web Developer from Bosnia and Herzegovina</h3>
+<h3 align="center">Backend developer from Bosnia and Herzegovina</h3>
 
 
 - 🌱 I’m currently learning more about **api**
 
-- 💬 Ask me about **html,css,cpp,js,php**
+- 💬 Ask me about **html,css,cpp,js,php,nodejs**
 
 
 <h3 align="left">Connect with me:</h3>
